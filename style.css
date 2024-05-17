@@ -1,0 +1,50 @@
+.header{
+    height: 100px;
+    background-color: blue;
+}
+.wrapper{
+    overflow: hidden;
+}
+.blog{
+    float: left;
+    width: 70%;
+    height: 200px;
+    background-color: green;
+}
+.contact{
+    float: right;
+    width: 30%;
+    height: 200px;
+    background-color: red;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+}
+.wrapper2{
+    overflow: hidden;
+}
+.blog2{
+    width:25%; 
+    float: left;
+    height: 200px;
+    background-color: brown;
+}
+.contact2{ 
+    background-color: blue;
+    float: left;
+    width: 25%;
+    height: 200px;
+}
+.speech2{ 
+    background-color: chartreuse;
+    float: left;
+    width: 25%;
+    height: 200px;
+}
+.dialogue2{ 
+    background-color: chocolate;
+    float: left;
+    width: 25%;
+    height: 200px;
+}
